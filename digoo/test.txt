@@ -1,0 +1,84 @@
+Long pause: 308189 3852 usec
+Start : Avg:  43924, min:  43239, max:  44775, avg:   549 usec, min:   540 usec, max:   560 usec
+Ones  : Avg: 151227, min: 150546, max: 151765, avg:  1890 usec, min:  1882 usec, max:  1897 usec
+Zeros : Avg:  71649, min:  70860, max:  72222, avg:   896 usec, min:   886 usec, max:   903 usec
+Decoded: 0100100010010000011011001111011000111 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101100 12 10.8
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
+Long pause: 307927 3849 usec
+Start : Avg:  43924, min:  43268, max:  44981, avg:   549 usec, min:   541 usec, max:   562 usec
+Ones  : Avg: 151283, min: 150165, max: 152927, avg:  1891 usec, min:  1877 usec, max:  1912 usec
+Zeros : Avg:  71684, min:  70868, max:  72569, avg:   896 usec, min:   886 usec, max:   907 usec
+Decoded: 0100100010010000011011001111011000111 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101100 12 10.8
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
+Long pause: 308258 3853 usec
+Start : Avg:  44192, min:  43018, max:  56526, avg:   552 usec, min:   538 usec, max:   707 usec
+Ones  : Avg: 151321, min: 150614, max: 151848, avg:  1892 usec, min:  1883 usec, max:  1898 usec
+Zeros : Avg:  71084, min:  58502, max:  72520, avg:   889 usec, min:   731 usec, max:   906 usec
+Decoded: 0100100010010000011011001111011000111 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101100 12 10.8
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
+Long pause: 308075 3851 usec
+Start : Avg:  43863, min:  43112, max:  44641, avg:   548 usec, min:   539 usec, max:   558 usec
+Ones  : Avg: 151307, min: 150748, max: 152081, avg:  1891 usec, min:  1884 usec, max:  1901 usec
+Zeros : Avg:  71873, min:  70920, max:  74318, avg:   898 usec, min:   886 usec, max:   929 usec
+Decoded: 0100100010010000011011101111011000110 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101110 12 11.0
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
+Long pause: 308346 3854 usec
+Start : Avg:  43861, min:  43079, max:  44707, avg:   548 usec, min:   538 usec, max:   559 usec
+Ones  : Avg: 151365, min: 150721, max: 152041, avg:  1892 usec, min:  1884 usec, max:  1901 usec
+Zeros : Avg:  71917, min:  70975, max:  74318, avg:   899 usec, min:   887 usec, max:   929 usec
+Decoded: 0100100010010000011011101111011000110 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101110 12 11.0
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
+Long pause: 308462 3856 usec
+Start : Avg:  43858, min:  43153, max:  44556, avg:   548 usec, min:   539 usec, max:   557 usec
+Ones  : Avg: 151341, min: 150955, max: 151980, avg:  1892 usec, min:  1887 usec, max:  1900 usec
+Zeros : Avg:  71930, min:  71177, max:  74318, avg:   899 usec, min:   890 usec, max:   929 usec
+Decoded: 0100100010010000011011101111011000110 len: 37 1's: 17 0's: 20
+Id:           01001000  8   72
+Battery:             1  1    1
+Zero:                0  1    0
+Chan:               01  2    2
+Temp:     000001101110 12 11.0
+Fixed:            1111  4   15
+Humidity:     01100011  8   99
+
+
