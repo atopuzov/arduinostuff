@@ -6,10 +6,17 @@ FACTOR_USEC = clock / usec
 # Empirically determined
 STARTL = 500  * FACTOR_USEC
 STARTH = 750  * FACTOR_USEC
-ONEL   = 1800 * FACTOR_USEC
+START  = (STARTL + STARTH) / 2
+ONEL   = 1500 * FACTOR_USEC
 ONEH   = 2000 * FACTOR_USEC
-ZEROL  = 700  * FACTOR_USEC
+ONE  = (ONEL + ONEH) / 2
+ZEROL  = 500  * FACTOR_USEC
 ZEROH  = 1000 * FACTOR_USEC
+ZERO  = (ZEROL + ZEROH) / 2
+
+
+def diff(a, b):
+    return abs(a - b)
 
 
 def display_bits(bits, text, l, r, f=lambda x: x):
