@@ -13,7 +13,7 @@ ONE  = (ONEL + ONEH) / 2
 ZEROL  = 500  * FACTOR_USEC
 ZEROH  = 1000 * FACTOR_USEC
 ZERO  = (ZEROL + ZEROH) / 2
-
+MID   = ZERO + (ONE-ZERO)/2
 
 def diff(a, b):
     return abs(a - b)
@@ -132,9 +132,9 @@ def analyse(times):
     print "Start :",
     detect_times(times)
     print "Ones  :",
-    detect_times(times, lambda x: x > 100000, 1)
+    detect_times(times, lambda x: x > MID, 1)
     print "Zeros :",
-    detect_times(times, lambda x: x < 100000, 1)
+    detect_times(times, lambda x: x < MID, 1)
 
 if __name__ == '__main__':
     # print ZERO, ONE, START, TOLERANCE
