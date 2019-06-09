@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Based on https://github.com/aquaticus/nexus433
 clock = 80000000.0
 usec = 1000000.0
